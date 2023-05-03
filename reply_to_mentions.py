@@ -10,9 +10,9 @@ from dotenv import load_dotenv
 
 def parseArgs() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        prog='Twitter bot: @babotsonicos',
-        description="Picks a random Babaosnicos' song and tweets a random phrase from it.",
-        epilog='For questions, reach out to the developer (GitHub user: /omirete).')
+        prog='Twitter bot: @cuartetodnosbot',
+        description="Picks a random Cuarteto de nos' song and tweets a random phrase from it.",
+        epilog='For questions, reach out to the developer (GitHub user: /retrixuy).')
 
     parser.add_argument("-d", '--debug', required=False, action="store_true")
 
@@ -63,8 +63,8 @@ def main():
     id_of_last_tweet_replied_to = read_last_id()
 
     tweets = API_ME.tweets.search(
-        q.with_exact_string('@babotsonicos')
-        & q.NOT.from_user('babotsonicos')
+        q.with_exact_string('@cuartetodnosbot')
+        & q.NOT.from_user('cuartetodnosbot')
         & q.has.mentions,
         since_id=id_of_last_tweet_replied_to,
         sort_order='recency',
