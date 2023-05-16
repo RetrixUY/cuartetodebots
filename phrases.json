@@ -159,6 +159,7 @@
         "Ni perder el vigor, ni decir sin rigor\nQue todo tiempo pasado siempre fue mejor",
         "No quiero estar cansado de llevarme puesto",
         "Y aunque esta verdad pueda doler\nTengo que decirlo, sin complacer\nPero si ofendo, pido perdón\nCuando sea grande, no quiero ser como vos",
+        "Cuando sea grande, no quiero ser como vos",
         "No quiero cometer tus mismos errores\nNi creer que todos son estafadores",
         "No quiero manejar tus mismos valores\nNi que cada día sea igual a los anteriores",
         "Ni echar con vehemencia la culpa a los demás\nDe lo que es mi incumbencia y responsabilidad",
@@ -260,5 +261,84 @@
         "Ay que pena!\nVer la indiferencia ajena\nIgnorando mi tesoro",
         "Ay que pena!\nNadie entiende esta condena\nDe estar solo",
         "Y esta intriga ya me pauta\nQuien me echó esta maldición"
+    ],
+    "COMO PASA EL TIEMPO": [
+        "Dicen que el tiempo y el olvido son hermanos gemelos\nQue el tiempo es oro y yo no pienso derrochar dinero",
+        "Por eso antes de dormirme hoy quiero afirmar\nQue este fue un día más y no un día menos",
+        "El tiempo solo sana lo que ya no importa",
+        "Porque el mañana de ayer es hoy",
+        "Voy contemplando cómo pasa el tiempo\nAl mismo tiempo rápido y lento",
+        "Miro el reloj y me dice: Ahora mismo\nSé que ni un segundo va a devolverme\nPor eso es que hoy no quiero perder tiempo en perderme",
+        "Por eso es que hoy no quiero perder tiempo en perderme",
+        "Decimos que queremos ser inmortales\nY no sabemos qué hacer en un día de lluvia",
+        "No fui yo el que quiso el tiempo perder\nFue el tiempo el que me perdió a mí"        
+    ],
+    "EL APRENDIZ": [
+        "Guardo bien las marcas de cada lección\nPorque lo que duele enseña",
+        "La ignorancia es la cuna del miedo\nPero no me da miedo preguntar: ¿Por qué?",
+        "De cuan profundo es un río me entero\nSolo cuando meto el pie",
+        "Aprendí a volver mientras fui yendo\nAprendí para ser quien estoy siendo\nY de gritar, de sufrir, de sangrar, de asumir\nDe perder, de fallar, de todo eso aprendo",
+        "Aprendí a evadir, confrontando\nAprendí a elegir, descartando\nAprendí a pelear, resistiendo\nAprendí a acertar, fracasando",
+        "Mi cabeza no es un vaso por llenar\nEs una luz a ser encendida",
+        "Y aunque el cuestionar me haga resbalar a la prudencia\nSe que la duda es uno de los nombres de la inteligencia\nMi semblante de estudiante en esencia es ser feliz\nSiendo el eterno postulante, el eterno aprendiz"
+    ],
+    "NO LLORA": [
+        "La nena sigue avanzando, la nena no llora",
+        "Cuando se rían de ella por no actuar igual que otra gente\nPor pensar diferente y ser abierta de mente\nY ellos desprecien lo que ella valora\nLa nena los ignora, la nena no llora",
+        "No sé si irán al viento estas palabras\nPero yo he escuchado al viento hablar",
+        "Cuando no tenga a nadie cerca\nY el dolor no la deje pensar\nY si no están mis ojos para buscar respuestas\nNo llora",
+        "Cuando por amor le duela el corazón\nY una tentación le nuble la razón\nY descubra que no existe una persona salvadora\nLa nena se hace fuerte, la nena no llora"
+    ],
+    "DE HIELO": [
+        "Soy un témpano de hielo\nPero este amor me está entibiando",
+        "Y mis pupilas que antes no brillaban\nQue tan solo reflejaban todo\nAhora dejan ver arder la llama\nQue encendieron esos otros ojos",
+        "Que difícil aceptar\nQue alguien pueda transformar\nEl frío de este corazón en fuego\nQue al igual que el hielo va a quemar"
+    ],
+    "ROBERTO": [
+        "No aconsejes a nadie que no te lo haya pedido\nNi acorrales a un cobarde ni a un león herido",
+        "No creas que lo evidente siempre es la verdad",
+        "No dinamites un puente que un día debas cruzar",
+        "Si todo va muy bien, seguro va a pasar algo malo\nY a veces no se rompe el hilo por lo más delgado",
+        "Nunca abras el paraguas antes que empiece a llover\nNi regales un libro a quién no sabe leer",
+        "No deseés que mueran tus enemigos\nEs mejor que estén vivos para verte triunfar",
+        "La conciencia vale más que mil testigos",
+        "Nunca lastimes a quién después no puedas matar",
+        "A veces lo que dice el alma puede estar en lo cierto",
+        "En este entorno en donde todo lo rige el soborno\nO estás en la cocina o estás en el horno",
+        "Nunca toques nada si todo está bien",
+        "Nunca dudes y dejes pasar el tren",
+        "No festejes que es miércoles si aún es martes\nY aprendé que mercenarios hay en todas partes",
+        "Es que a veces nada es lo que parece\nPorque todos presumen de lo que carecen",
+        "Nunca duermas con quien tenga un puñal tatuado\nNunca hables de la cuerda en la casa del ahorcado",
+        "Nunca escupas para arriba ni contra el viento\nNunca te mojes por alguien que siempre está seco",
+        "No sientas miedo en el desconcierto\nUn mar en calma nunca hizo un marinero experto",
+        "Y por cierto, es mejor que tus flaquezas asimiles\nAquiles, solo por su talón es Aquiles",
+        "No te creas un doberman que se cree Superman",
+        "Nunca jures nada con un trago en la mano",
+        "Nunca hagas el bien sin mirar a quién\nNo te aferres a algo que ya no es",
+        "Nunca sugieras a nadie cómo proceder\nNunca digas a nadie lo que nunca debe hacer"
+    ],
+    "21 DE SEPTIEMBRE": [
+        "Tu mirada transparente atravesándonos\nTan ausente y tan distante\nBrillando de tristeza y de inseguridad\nResplandeciente de temor y soledad",
+        "Y aunque sé que mi nombre\nYa no pronunciarás\nNo duele oírte contar\nComo fue tu primer beso\nY en medio de esta guerra\nDe rabia y desconcierto\nTe vas perdiendo\nTe vas perdiendo",
+        "Te fuiste tan de a poco que nunca dijiste adiós"
+    ],
+    "HABLA TU ESPEJO": [
+        "Veo en tu cara el barullo que impera en tu cabeza\nVeo cuando la culpa supera tu vergüenza\nNo intuyo, veo el amor escondido en tu orgullo\nMe mirás, pero soy yo el que ve a través tuyo",
+        "Te veo ir, te oigo llegar\nSé cuando traes problemas y cuando vas por más",
+        "Veo en tu boca las palabras que nunca dijiste\nVeo en tus ojeras el cansancio, como un quiste",
+        "Te veo preocupado, sin nadie a tu lado, de un tiempo a esta parte\nNo te he visto ni bien ni mal acompañado",
+        "Sé que el otoño me odia porque no tengo nostalgia\nEl verano porque su calor no sentiré\nLa primavera porque nunca me enamoro\nY el invierno porque soy mucho más frío que él",
+        "Soy tu reflejo, pero también el de tu sombra"
+    ],
+    "UN PROBLEMA MENOS": [
+        "Soy un conflicto, parece ser el veredicto\nY que a complicar las situaciones soy adicto\nUna carga que pesa, y ese peso hay que sufrir\nNo me lo dicen, pero me lo hacen sentir",
+        "Soy la cicatriz que avergüenza y hace esconder sus caras\nSoy sus secretos publicados en primera plana",
+        "Y el día que tenga que irme lejos\nY pase a estar solamente en sueños\nPodrá servir o no de consuelo\nQue al menos seré un problema menos",
+        "Y mi alegato parece algo extraño\nNos hace daño quien nos quiere y no quien quiere hacernos daño",
+        "Nos hace daño quien nos quiere y no quien quiere hacernos daño",
+        "Ven mis defectos con microscopio\nVen el pelo en ojo ajeno y no el ladrillo en el propio",
+        "Y si les molesta aguantar mi presencia\nEntonces si no brillo yo, brillará mi ausencia",
+        "Entonces si no brillo yo, brillará mi ausencia"
     ]
 }
